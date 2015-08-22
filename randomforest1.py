@@ -2,6 +2,10 @@ import numpy as np
 import csv
 import re
 
+#this was my attempt to write a machine learning algorithm using scikit-learn
+#we ended up going with an organization called DrivenData to finish this task
+#you can find competition history here: www.drivendata.org/competitions/4/
+
 
 whitelist = {}
 
